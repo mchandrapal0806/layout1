@@ -1,0 +1,59 @@
+.l{
+    height: 3%;
+    margin-right:60%;
+}
+
+.image{
+    background-image: url("image/image3.jpeg");
+    background-repeat:no-repeat;
+    height: 80%;
+    width: 80%;
+    padding-right: 10%;
+    padding-left: 10%;
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius:40%;
+
+}
+.color
+{
+    width: 70%;
+    height: 10%;
+    background-color:blue;
+    color: white;
+    border-top-left-radius:40px;
+    border-bottom-right-radius:40px;
+    margin-top: 30%;
+    text-align: center;
+    margin-right 100px;
+
+}
+.c{
+    width: 40%;
+    height: 10%;
+    margin-left:10%;
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    
+}
+.t
+{
+
+    text-align: justify;
+    
+}
+.a{
+ 
+    border-image :no-repeat;
+    height: 120px;
+    width: 120px;
+    margin-left:90%;
+       
+}
+.bc
+{
+
+    text-align:left;    
+}
+
+
